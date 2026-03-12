@@ -1,48 +1,68 @@
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
-<h3 align="center">B.Tech CSE Student | Web Developer | AI & IoT Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Web Developer | AI • ML • IoT Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Machine+Learning+Learner;IoT+Project+Builder;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Web+Developer;Machine+Learning+Learner;Building+Real+World+Projects"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pintukumar22372016-alt&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE Student – Invertis University  
-- 💻 Passionate about Web Development  
-- 🤖 Learning Machine Learning & IoT  
-- 🚀 Building real world projects  
+
+* 🎓 B.Tech Computer Science Student
+* 💻 Passionate about Web Development & AI
+* 🤖 Learning Machine Learning & IoT
+* 🚀 Always exploring new technologies
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,git,github,vscode,linux"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pintukumar22372016-alt&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintukumar22372016-alt&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pintukumar22372016-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintukumar22372016-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pintukumar22372016-alt&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pintukumar22372016-alt&theme=algolia&row=1&column=6"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile
+⭐ Thanks for visiting my GitHub profile
