@@ -36,21 +36,11 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pintukumar22372016-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintukumar22372016-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
-
 ### 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pintukumar22372016-alt&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pintukumar22372016-alt&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
