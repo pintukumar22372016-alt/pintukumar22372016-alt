@@ -58,9 +58,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pintu-kumar-606bba379">linkedin.com/in/pintu-kumar</a>
+<a href="https://github.com/pintukumar22372016-alt">github.com/pintukumar22372016-alt</a>
+<a href="mailto:pintukumar22372016@gmail.com">pintukumar22372016@gmail.com</a>
 </p>
 
 ---
