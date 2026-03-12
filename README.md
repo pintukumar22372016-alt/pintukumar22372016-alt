@@ -57,15 +57,13 @@
 
 ### 🌐 Connect With Me
 
-### 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://linkedin.com/in/pintu-kumar" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pintu-kumar-606bba379">
+<img src="https://img.shields.io/badge/LinkedIn-Pintu%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pintukumar22372016-alt" target="_blank">
+<a href="https://github.com/pintukumar22372016-alt">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -74,6 +72,7 @@
 </a>
 
 </p>
+
 
 
 ---
