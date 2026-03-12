@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Web+Developer;Machine+Learning+Learner;Building+Real+World+Projects"/>
 </p>
-
 ---
 
 <p align="center">
@@ -36,6 +35,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pintukumar22372016-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintukumar22372016-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ### 🔥 GitHub Streak
